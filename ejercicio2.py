@@ -1,11 +1,20 @@
 ''''
 -----------------------------
  EJERCICIO N°2
- Resumen de operadores aritméticos
+ Operadores aritméticos
 -----------------------------
- Predice cuáles serán los resultados para los siguientes fragmentos
+ EXPONENCIACIÓN **
 -----------------------------
 '''
-print((2**4), (2*4.), (2*4))
-#print((-2/4), (2/4), (2//4), (-2//4))
-#print((2%-4), (2%4), (2**3**2))
+print(4 ** 2)
+print(4 ** 2.)
+print(4. ** 2)
+print(4. ** 2.)
+
+'''
+-----------------------------
+ 1. Cambiemos el operador por MULTIPLICACIÓN * y DIVISIÓN /
+ 2. Cambiemos los números por divisiones que resulten en decimales
+ 3. Finalmente, probemos la DIVISIÓN ENTERA //
+-----------------------------
+'''
